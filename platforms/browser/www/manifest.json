@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "ghost-hunter-extra",
+  "short_name": "ghost-hunter-extra",
+  "version": "io.cordova.hellocordova",
+  "description": "Best ghost catcher app",
+  "author": "Aurélien only",
+  "icons": [],
+  "start_url": "index.html"
+}
